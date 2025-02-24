@@ -1,0 +1,14 @@
+#Python Bytecode
+__pycache__/
+*.py[cod]
+#Virtual Environments
+env/
+venv/
+#Jupyter Notebooks
+.ipynb_checkpoints
+#Logs and Output
+*.log
+#Operating System Files
+.DS_Store
+#Editor Files
+.vscode/
